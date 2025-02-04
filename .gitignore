@@ -6,8 +6,6 @@ node_modules
 .quasar
 /dist
 
-# supabase
-/src/boot/supabase.js
 
 # Cordova related directories and files
 /src-cordova/node_modules
